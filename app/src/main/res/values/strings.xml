@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Palindrom?</string>
+    <string name="lbl_info">Eingabe String:</string>
+    <string name="btn_check">Check String</string>
+    <string name="txt_input">String >= 5 Zeichen</string>
+    <string name="lbl_palindrom_true">Ja, das ist ein Palindrom!</string>
+    <string name="lbl_palindrom_false">Nein, das ist kein Palindrom!</string>
+    <string name="lbl_inupt_empty">Geben Sie einen String ein!</string>
+    <string name="lbl_input_too_short">Geben Sie ein Wort mit mindestens 5 Zeichen ein!</string>
+</resources>
